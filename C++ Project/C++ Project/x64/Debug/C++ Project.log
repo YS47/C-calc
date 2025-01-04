@@ -1,0 +1,5 @@
+﻿  C++ Project.cpp
+C:\Users\youse\source\repos\C++ Project\C++ Project\C++ Project.cpp(35,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\youse\source\repos\C++ Project\C++ Project\C++ Project.cpp(73,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\youse\source\repos\C++ Project\C++ Project\C++ Project.cpp(101,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  C++ Project.vcxproj -> C:\Users\youse\source\repos\C++ Project\x64\Debug\C++ Project.exe
